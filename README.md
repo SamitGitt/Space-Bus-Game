@@ -1,5 +1,3 @@
-# Create the content for the markdown file
-markdown_content = """
 # Bus Game Documentation
 
 ## 1. Overview
@@ -75,10 +73,6 @@ The **Bus Game** is an engaging 2D action game developed using SDL2. Players con
 
 ## 7. File Organization
 The code is self-contained but relies on correctly set up SDL2 library paths for compilation and execution.
-"""
-
-# File path to save the markdown file
-file_path = "/mnt/data/Bus_Game_Documentation.md"
 
 # Write the markdown content to the file
 with open(file_path, "w") as file:
