@@ -1,6 +1,6 @@
 # Bus Game Documentation
 
-## 1. Overview
+## 1. Introduction
 The **Bus Game** is an engaging 2D action game developed using SDL2. Players control a bus, avoid obstacles, and shoot lasers to destroy them. Key features include a scoring system, health mechanics, and experience points.
 
 ## 2. Requirements
